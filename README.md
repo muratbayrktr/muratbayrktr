@@ -3,7 +3,7 @@
     
  This page is still under construction.. 
    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muratbayrktr&show_icons=true&theme=dracula)](https://github.com/muratbayrktr/muratbayrktr)
+[![Murat's GitHub stats](https://github-readme-stats.vercel.app/api?username=muratbayrktr&show_icons=true&theme=dracula)](https://github.com/muratbayrktr/muratbayrktr)
   
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratbayrktr&layout=compact&theme=dracula)](https://github.com/muratbayrktr/muratbayrktr)
