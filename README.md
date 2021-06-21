@@ -1,8 +1,12 @@
-### Hi there 👋
+
 <div  align="center" width="200" height="300">
-Visited:  
-  
-![Visitor Count](https://profile-counter.glitch.me/muratbayrktr/count.svg)
+<h1>
+	Hi there 👋  
+</h1>	
+Visited   
+
+![Visitor Count](https://profile-counter.glitch.me/muratbayrktr/count.svg)  
+times.
 </div>
 
 This is me! You can take a look at the projects I have done, learning repos to see what I studied and homeworks that I've done/am doing/will do throughout my education. If you have any advice, improvements or notice a bug, feel free to submit an issue! Contributions are welcomed! *YAY OPEN-SOURCE!!*
