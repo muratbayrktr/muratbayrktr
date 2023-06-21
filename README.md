@@ -13,8 +13,8 @@ This is me! You can take a look at the projects I have done, learning repos to s
  
  <p align="left" width="460" height="300">
 - 🔭 I’m currently working as the technical leader of the AVION AI team. <br>
-- 😄 Also I'm doing internship at KOVAN Research Labs. <br>
-- 🌱 I’m currently learning about Graph Convolutional Networks and extending my knowledge on artificial intelligence and its derivatives.<br>
+- 😄 Also I'm working at Blockcentury. <br>
+- 🌱 I’m currently learning about Recommender Systems and extending my knowledge on artificial intelligence and its derivatives.<br>
 - 👯 I’m looking to collaborate on any fun project related to my area & appropriate for my skillset!<br>
 - 📫 How to reach me: https://www.linkedin.com/in/murat-bayraktar-a361b2189/<br>
 - Or you can also send e-mail: bayraktar.murat@metu.edu.tr<br>
