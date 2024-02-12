@@ -46,10 +46,11 @@ This is me! You can take a look at the projects I have done, learning repos to s
 	<img src="./simtest.png" alt="output" width="50%"/>
 	<img src="./simtest_run.png" alt="output" width="45%"/>
 	<h1> Satisfiability Solver </h1>
-	<img src="./demo.png" alt="output" width="45%"/>
+	<img src="./demo.png" alt="output" width="75%"/>
 	<br></br>
 	<h1> Deep Learning </h1>
 	<img src="./inferred.png" alt="output" width="75%"/>
+	<br></br>
 </div>
 
   
