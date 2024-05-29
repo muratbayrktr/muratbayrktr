@@ -12,7 +12,7 @@ times.
 This is me! You can take a look at the projects I have done, learning repos to see what I studied and homeworks that I've done/am doing/will do throughout my education. If you have any advice, improvements or notice a bug, feel free to submit an issue! Contributions are welcomed! *YAY OPEN-SOURCE!!*
  
  <p align="left" width="460" height="300">
-- 🔭 I’m not currently working.<br>
+- 🔭 I’m not currently employed.<br>
 - 🌱 I’m currently extending my knowledge on artificial intelligence and its derivatives.<br>
 - 👯 I’m looking to collaborate on any fun project related to my area & appropriate for my skillset!<br>
 - 📫 How to reach me: https://www.linkedin.com/in/murat-bayraktar-a361b2189/<br>
